@@ -23,9 +23,22 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+   Accessibility is important to us as designers because we want to make sure the designs we make are accessible to everyone - we want to be empathetic and think from our user's points of views and think of possible issues they may have such as vision, colorblindness, etc to design an experience that will be beneficial to all by using responsive design
+
 2. Talk about 3 different things you can do to ensure your website is accessible.
+
+   -Using a Color palette that's accessible for all levels of color visibility there's ways to choose a palette that overlaps and may be slightly off from our initial design but will be more beneficial to much more people
+   -Using responsive design units like % or perhaps rem for font so the user can zoom in and adjust their page to their liking
+   -using alt image descriptions for screen-readers and for describing images for those that may be blind - along with using semantic styles to our html to make it easier on both the user and screen readers to ensure they receive a good experience from our website. Truly using empathy!
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+   A variable is a container for holding data - there are 3 different types of containers and they all have different properties with how we can manipulate what we store in them and how we can label the box.
+
 4. What is the purpose of using functions in code?
+
+   the purpose of using a function in code is to create a reusable dynamic piece of code that can be used over and over without us having to write new code for each separate scenario - we can instead in some instances create a function that will adhere to being able to be utilized in multiple scenarios over and over dynamically.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
