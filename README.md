@@ -74,4 +74,4 @@ After finishing your required elements, you can push your work further. These go
 
 Please see canvas for cohort specific submission instructions
 
-Nadeem Khan 01/22/2021
+Nadeem Khan 01/22/21
